@@ -1,0 +1,8 @@
+.containerDiv  {
+  flex-direction:  "row";
+}
+
+.topDiv {
+  background-color: rgb(94, 75, 75);
+  padding: 100px;
+}
